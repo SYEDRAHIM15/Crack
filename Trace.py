@@ -69,8 +69,8 @@ time.sleep(5)
 done = True
  
 def keluar():
-        print "\033[1;97m{\033[1;91m!\033[1;97m} Keluar"
-        os.sys.exit()
+        
+  
  
  
 def acak(x):
