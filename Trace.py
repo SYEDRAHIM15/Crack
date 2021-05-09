@@ -73,7 +73,7 @@ def keluar():
   
  
  
-def acak(x):
+
     w = 'mhkbpcP'
     d = ''
     for i in x:
