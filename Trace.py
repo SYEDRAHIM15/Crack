@@ -21,13 +21,13 @@ warni = random.choice(my_color)
 def pkgs():
         love("\033[1;91m«-----------------\033[1;96m𝑺𝒀𝑬𝑫 𝑹𝑨𝑯𝑰𝑴\033[1;91m-----------------»")
         love("\033[1;96m«-----------------Disclaimer---------------»")
-        love("\033[1;91m     This Tool is for Educational Purpose")
-        love("\033[1;93mThis presentation is for educational")
-        love("\033[1;93mpurposes ONLY.How you use this information")
-        love("\033[1;93mis your responsibility.I will not be")
-        love("\033[1;93mheld accountable This Tool/Channel Doesn't")
-        love("\033[1;93mSupport illegal activities.for any illegal")
-        love("\033[1;93mActivitie This Tool is for Educational Purpose")
+        love("\033[1;91m     
+        love("\033[1;93m                      🖕🔥👇 𝕂𝕌ℝℝ𝔸𝕄 ℍ𝔸ℂ𝕂𝔼ℝ👇🔥🖕
+        love("\033[1;93m 
+        love("\033[1;93m                           🔥 𝙎𝙔𝙀𝘿 𝙍𝘼𝙃𝙄𝙈🔥
+        love("\033[1;93m
+        love("\033[1;93m
+        love("\033[1;93m
         love("\033[1;91m«---------------------------------»")
         love("\033[1;95mSYED 𝖱𝖠𝖧𝖨𝖬 2nd Tool Start ComingSoon New Update»")
         love("\033[1;96m «-----------------\033[1;92m𝖲𝖸𝖤𝖣 𝖱𝖠𝖧𝖨𝖬\033[1;96m--------------»")
@@ -155,7 +155,7 @@ def menu():
     os.system('echo  WE NEVER FORGET░ASPECT ░░ US ░KNOWLEDGE░IS░░FREE | lolcat -a -F 0.1')
     os.system('echo  HI, I AM 𝑆𝑌𝐸𝐷 𝑅𝐴𝐻𝐼𝑀  ETICAL HACKER | lolcat -a -F 0.1')
     os.system('echo  WE ARE ANONYMOUS WE ARE LEGION WE NEVER FORGIVE WE NEVER FORGET ASPECT US | lolcat -a -F 0.1')
-    os.system('echo  SHABIR BALOCH WHATSAPP = 0316882329 | lolcat -a -F 0.1')
+    os.system('echo  𝙎𝙔𝙀𝘿 𝙍𝘼𝙃𝙄𝙈 WHATSAPP = 0316882329 | lolcat -a -F 0.1')
     os.system('echo  VISIT OUR 𝐹𝐴𝐶𝐸𝐵𝑂𝑂𝐾 𝑃𝑅𝑂𝐹𝐼𝐿𝐸  𝑆𝑌𝐸𝐷 𝑅𝐴𝐻𝐼𝑀 | lolcat -a -F 0.1')
     os.system('echo  PAKISTANI ETICAL HACKER AND A PROGRAMMER | lolcat -a -F 0.1')
     os.system('echo  LETS░░░░░ENJOY░░OUR░░░░░TOOL░░THANKS | lolcat -a -F 0.1')
@@ -196,7 +196,7 @@ def menu():
     time.sleep(0.0005)
     os.system('echo [K]  Install love3Hack3r----------------------- Tool ----● | lolcat --animate')
     time.sleep(0.0005)
-    os.system('echo [L]  Install B4 BALOCH Clonnig----------------- Tool ----● | lolcat --animate')
+    os.system('echo [L]  Install SYeD Clonnig----------------- Tool ----● | lolcat --animate')
     time.sleep(0.0005)
     os.system('echo [M]  Install Web Admin Panel Finder------------ Tool ----● | lolcat --animate')
     time.sleep(0.0005)
