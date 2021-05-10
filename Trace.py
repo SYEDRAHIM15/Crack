@@ -21,9 +21,13 @@ warni = random.choice(my_color)
 def pkgs():
         love("\033[1;91m«-----------------\033[1;96m𝑺𝒀𝑬𝑫 𝑹𝑨𝑯𝑰𝑴\033[1;91m-----------------»")
         love("\033[1;96m«-----------------Disclaimer---------------»")
-             
-                           
-        
+        love("\033[1;91m     This Tool is for Educational Purpose")
+        love("\033[1;93mThis presentation is for educational")
+        love("\033[1;93mpurposes ONLY.How you use this information")
+        love("\033[1;93mis your responsibility.I will not be")
+        love("\033[1;93mheld accountable This Tool/Channel Doesn't")
+        love("\033[1;93mSupport illegal activities.for any illegal")
+        love("\033[1;93mActivitie This Tool is for Educational Purpose")
         love("\033[1;91m«---------------------------------»")
         love("\033[1;95mSYED 𝖱𝖠𝖧𝖨𝖬 2nd Tool Start ComingSoon New Update»")
         love("\033[1;96m «-----------------\033[1;92m𝖲𝖸𝖤𝖣 𝖱𝖠𝖧𝖨𝖬\033[1;96m--------------»")
@@ -34,6 +38,13 @@ try:
 except ImportError:
         os.system("pip2 install mechanize")
 try:
+        
+             
+                           
+        
+        
+        
+        
         import requests
 except ImportError:
         os.system("pip2 install requests")
